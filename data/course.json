@@ -1,5 +1,5 @@
 {
-  "term": "Summer",
+  "term": "Spring",
   "year": "2021",
   "level": [
     "Undergraduate"
@@ -23,7 +23,7 @@
   },
   "course_title": "Optimization Methods in Business Analytics",
   "hide_download": true,
-  "course_description": "In this mathematics course, we will examine optimization through a Business Analytics lens. Students will be introduced to the to the theory, algorithms, and applications of optimization. Linear and integer programming will be taught both algebraically and geometrically, and then applied to problems involving data. Students will develop an understanding of algebraic formulations, and use Julia/JuMP for computation. Theoretical components of the course are made approachable, and require no formal background in linear algebra or calculus.\n\nThe primary focus of 15.053x is optimization modeling. As a six-week subject, 15.053x covers about half of the material of the MIT Open Courseware version of [15.053 Spring 2013](http://ocw.mit.edu/courses/sloan-school-of-management/15-053-optimization-methods-in-management-science-spring-2013/index.htm?utm_source=OLL&utm_medium=about-page&utm_content=15-053x&utm_campaign=OLL2ocw). The topics of the 2013 subject were optimization modeling, algorithms, and theory. These two versions of the course are complimentary and can be studied at the same time.",
+  "course_description": "This mathematics course will examine optimization through a business analytics lens. Students will learn the theoretical aspects of linear programming, basic Julia programming, and proficiency with linear and nonlinear solvers. Theoretical components of the course are made approachable and require no formal background in linear algebra or calculus.\n\nThe primary focus of 15.053x is optimization modeling. As a six-week subject, 15.053x covers about half of the material of the MIT Open Courseware version of [15.053 Spring 2013](http://ocw.mit.edu/courses/sloan-school-of-management/15-053-optimization-methods-in-management-science-spring-2013/index.htm?utm_source=OLL&utm_medium=about-page&utm_content=15-053x&utm_campaign=OLL2ocw). The topics of the 2013 subject were optimization modeling, algorithms, and theory. These two versions of the course are complimentary and can be studied simultaneously.",
   "department_numbers": [
     "15"
   ],
