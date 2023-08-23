@@ -1,0 +1,41 @@
+{
+  "term": "Summer",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "e0c41a84-d2b2-5afa-43a7-0844d4af754b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "optimization-methods-in-business-analytics"
+  },
+  "course_title": "Optimization Methods in Business Analytics",
+  "hide_download": true,
+  "course_description": "",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "15.053",
+  "primary_course_number": "15.053x",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "optimization-methods-in-business-analytics"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "c01ee566-8ad3-42e3-a338-df6f958dd253",
+  "site_short_id": "15.053x-spring-2021"
+}
