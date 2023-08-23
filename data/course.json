@@ -35,6 +35,9 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
+    "Recitation Videos",
+    "Lecture Notes",
+    "Recitation Notes",
     "Problem Sets with Solutions"
   ],
   "site_uid": "c01ee566-8ad3-42e3-a338-df6f958dd253",
